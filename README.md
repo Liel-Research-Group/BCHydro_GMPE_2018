@@ -1,5 +1,5 @@
 # BCHydro_GMPE_2018
-This is a MatLab function for the 2018 Update to BC Hydro by Abrahamson et al. 2018.
+This is a MatLab function for the 2018 update to BC Hydro by Abrahamson et al. 2018.
 
 ## Running the Function
 Call the function "BCHydro2018.m" from the matlab command line with the appropriate functions inputs to run the method and generate outputs. Output data is returned through the function handle. 
